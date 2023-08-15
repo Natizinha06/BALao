@@ -24,8 +24,6 @@ public class Main {
         pessoa1.setTelContado("1192761221");
         pessoa1.setEndereço("Rua Carldos dumont");
 
-
-
         //Pessoa 2
 
         pessoa2.setNome("Maria Joaquina");
@@ -35,15 +33,11 @@ public class Main {
         pessoa2.setTelContado("11995578798");
         pessoa2.setEndereço("Rua Carldos dumont");
 
-
-
         //Piloto
 
         piloto1.setNome("Kleiton");
         piloto1.setCpf("00999888765");
         piloto1.setNumeroRegistro("22");
-
-
 
         //Balão
 
